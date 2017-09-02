@@ -4,3 +4,6 @@
 [submodule "external/Xamarin.Auth"]
 	path = external/Xamarin.Auth
 	url = https://github.com/xamarin/Xamarin.Auth.git
+[submodule "external/nodejs-OAuth-in-Action"]
+	path = external/nodejs-OAuth-in-Action
+	url = https://github.com/oauthinaction/oauth-in-action-code.git
